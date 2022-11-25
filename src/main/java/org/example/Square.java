@@ -2,6 +2,7 @@ package org.example;
 
 import org.example.draw.Drawable;
 
+//Class extending the interface
 public class Square implements Drawable {
     @Override
     public void mark() {

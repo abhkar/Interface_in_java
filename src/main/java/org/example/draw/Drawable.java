@@ -1,5 +1,6 @@
 package org.example.draw;
 
+//Interface Drawable
 public interface Drawable {
     void mark();
     default void text(){
